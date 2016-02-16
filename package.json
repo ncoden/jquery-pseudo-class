@@ -1,0 +1,24 @@
+{
+  "name": "jquery-pseudo-classes",
+  "version": "0.1.0",
+  "description": "jQuery CSS pseudo-classes plugin",
+  "main": "src/jquery-pseudo-classes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncoden/jquery-pseudo-classes.git"
+  },
+  "keywords": [
+    "jQuery",
+    "CSS",
+    "pseudo-classes"
+  ],
+  "author": "Nicolas Coden",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ncoden/jquery-pseudo-classes/issues"
+  },
+  "homepage": "https://github.com/ncoden/jquery-pseudo-classes#readme"
+}
