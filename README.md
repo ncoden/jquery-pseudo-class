@@ -1,5 +1,4 @@
 # jQuery pseudo-classes
-=====
 jQuery CSS pseudo-classes plugin
 
 ## Install
