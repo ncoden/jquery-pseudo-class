@@ -1,6 +1,6 @@
 {
   "name": "jquery-pseudo-class",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "jQuery CSS pseudo-class plugin",
   "main": "lib/index.js",
   "scripts": {
