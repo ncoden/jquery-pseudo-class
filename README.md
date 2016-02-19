@@ -1,9 +1,9 @@
-# jQuery pseudo-classes
-jQuery CSS pseudo-classes plugin
+# jQuery pseudo-class
+jQuery CSS pseudo-class plugin
 
 ## Install
 ```
-npm install jquery-pseudo-classes
+npm install jquery-pseudo-class --save
 ```
 
 ## Licence
