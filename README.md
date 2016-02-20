@@ -22,7 +22,6 @@ $elem.onPseudoClass( {
     pseudo_class: [function_in, function_out],
     ...
 } );
-
 ```
 
 For exemple:
