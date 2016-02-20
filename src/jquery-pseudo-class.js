@@ -1,6 +1,7 @@
 import jQuery from 'jquery';
 
-(function($) {
+
+export default function jQueryPseudoClass($) {
 
     function onPseudoClass(elem, type, handlerIn, handlerOut) {
         var t;
@@ -47,4 +48,6 @@ import jQuery from 'jquery';
         }
     });
 
-}(jQuery));
+}
+
+jQueryPseudoClass(jQuery);
