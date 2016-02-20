@@ -2,7 +2,7 @@
   "name": "jquery-pseudo-class",
   "version": "0.1.6",
   "description": "jQuery CSS pseudo-class plugin",
-  "main": "lib/index.js",
+  "main": "lib/jquery-pseudo-class.js",
   "scripts": {
     "build": "babel src -d lib",
     "dist": "npm run build && webpack --optimize-minimize lib/jquery-pseudo-class.js dist/jquery-pseudo-class.js",
