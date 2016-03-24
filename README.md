@@ -3,7 +3,7 @@ Add pseudo-class events control to jQuery
 
 ## Install
 ```
-npm install jquery-pseudo-class --save
+npm install --save jquery-pseudo-class
 ```
 
 :construction: The module is still in development.
